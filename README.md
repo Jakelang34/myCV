@@ -2,11 +2,57 @@
 ## **Jake Lang **
 ### **Biology Student**
 [Email](tun18409@temple.edu) 
-- Temple University
+- Currently at Temple University
 
 
 ## Education
 **Temple University | Biology**
+
+
+  College of Science and Technology, Philadelphia, PA
+	Bachelor of Science, Graduation: Summer 2024
+	Major:  Biology
+	GPA: 3.11
+
+Related Courses (Completed by May 2022): 
+•	General Chemistry II 
+•	Introduction to Organismal Biology 
+•	Introduction to Organismal Biology Laboratory 
+•	General Chemistry Laboratory II 
+•	Organic Chemistry I
+•	Organic Chemistry Laboratory I
+•	Introduction to Biomolecules and Cells
+•	Introduction to Biomolecules and Cells Laboratory 
+•	Genetics 
+•	Genetics Laboratory
+•	Organic Chemistry II	
+•	Organic Chemistry II laboratory
+•	Biostatistics 
+•	Principles of Ecology 
+•	Calculus 
+•	Cell Structure & Function
+•	Cell Structure & Function Laboratory
+•	Physics I
+•	Physics II
+•	Physics I & II Laboratory
+•	Tropical Marine Biology
+
+BUCKS COUNTY COMMUNITY COLLEGE, Undeclared, Newton, PA 
+
+Related Courses (Completed by May 2021): 
+•	General Chemistry I 
+•	General Chemistry I Lab 
+
+
+JAMES MADISON UNIVERSITY, College of Science and Mathematics, Harrisonburg, VA
+		Bachelor of Science
+		Major: Biology
+		GPA: 3.13
+
+Related Courses (Completed by January 2021): 
+•	General Biology II 
+•	Calculus 
+
 
 
 
@@ -19,41 +65,39 @@
 
 
 ## Internships																								
-**Atrin Pharmaceutical Biotechnology Intern** 
+    
+    **Fred Beans, Doylestown, PA**
+Warehouse Associate, February 2021–August 2021 
+•	Provided customer support by selling car parts to different mechanic shops  
+•	Selected and staged for shipping upwards of 500 and more parts a day 
+•	Managed the stock of different car accessories  
+ 
+**Pine Run Community Home, Doylestown, PA**
+Utilities Associate, June 2018 – August 2018 
+•	Maintained cleanliness of kitchen to meet safety standards 
+•	Delivered meals to residents and updated kitchen inventory 
+•	Accommodated waitstaff with serving and aided elderly patrons as needed 
+ 
+**Holiday House Pet Resort, Doylestown, PA** 
+Dog Walker/Sitter, June 2019 – August 2019 
+•	Walked and cared for dogs and cats as their owners were away for vacation 
+•	Managed and made sure each animal was properly fed/walked 
+•	Properly handled the animal’s medicine for each day 
+ 
+**Wesley Enhanced Living, Doylestown, PA** 
+Meal Server, January 2020 – May 2020 
+•	Served meals to the elderly within the retirement home 
+•	Learned to care for and be patient with the residents and accord for their disabilities  
+•	Took orders carefully so each resident can enjoy their meal to the fullest 
 
-*Atrin Pharmaceuticals | Summer 2022*
-- worked with ovarian cancer cells
-- 
+**Aprea Pharmaceutical, Doylestown, PA**
+Intern, June 2022- August 2022
+•	Culturing ovarian cancer cells
+•	Running assays to understand how different companies’ drugs work
+•	Work in a laboratory getting experience using various instruments
 
-**Hertiage Dental Intern**
-- did this
-- 
-## Work Experience																			
-
-**Laboratory Manager** 
-
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
-
-**Laboratory Assistant** 
-
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
-
-**Instructor of Radio Telemetry** 
-
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
+**Hertiage Dental, Montgomeryville, PA**
+Shadow, June 2023-August 2023
+•	Shadow Dr. Beth at Hertiage Dental where I learned dental skills
+•	Got familiar with bonding, crowns, and 3-D printing technology
 
