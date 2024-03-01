@@ -64,7 +64,7 @@ Related Courses (Completed by January 2021):
 
 
 
-## Internships																								
+## Internships & Experience 																							
     
     **Fred Beans, Doylestown, PA**
 Warehouse Associate, February 2021–August 2021 
